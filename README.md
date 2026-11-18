@@ -12,30 +12,38 @@ I build modern web experiences, explore emerging technologies, and turn ideas in
 
 ---
 
-### Tech Stack
+## 🛠️ Tech Stack
 
-\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,js,python,wordpress](https://skillicons.dev/icons?i=html,css,js,python,wordpress)" alt="HTML, CSS, JavaScript, Python, WordPress" /> \</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 ---
 
-### Featured Project
+## 🚀 Featured Project
 
-[**Ebtekar AI**](https://ebtekarai.ir)
+### [Ebtekar AI](https://ebtekarai.ir)
 
 An AI platform focused on making artificial intelligence accessible through modern tools and intelligent experiences.
 
 ---
 
-### GitHub Statistics
+## 📊 GitHub Statistics
 
-\<p>   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=rezai-maedeh&show_icons=true&hide_border=true&theme=default&rank_icon=github](https://github-readme-stats.vercel.app/api?username=rezai-maedeh\&show_icons=true\&hide_border=true\&theme=default\&rank_icon=github)" alt="GitHub Statistics" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=rezai-maedeh&layout=compact&hide_border=true&theme=default](https://github-readme-stats.vercel.app/api/top-langs/?username=rezai-maedeh\&layout=compact\&hide_border=true\&theme=default)" alt="Most Used Languages" /> \</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezai-maedeh&show_icons=true&hide_border=true&theme=transparent)
 
----
-
-### Contribution Activity
-
-\<p>   \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=rezai-maedeh&theme=github-compact&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=rezai-maedeh\&theme=github-compact\&hide_border=true)" width="100%" alt="Contribution Graph" /> \</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezai-maedeh&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
-\<p align="center">   \<i>Building, learning, and creating with code.\</i> \</p>
+## 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rezai-maedeh&theme=github-compact&hide_border=true)
+
+---
+
+<p align="center">
+  <i>Building, learning, and creating with code.</i>
+</p>
