@@ -1,4 +1,4 @@
-![Maedeh Rezai - GitHub Banner](./banner.png)
+![Maedeh Rezai - GitHub Banner](./Maedeh-Rezai.jpg)
 
 # Hi, I'm Maedeh 👋
 
