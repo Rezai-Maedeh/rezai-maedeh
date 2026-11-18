@@ -1,3 +1,5 @@
+![Maedeh Rezai - GitHub Banner](./banner.png)
+
 # Hi, I'm Maedeh 👋
 
 ### Web Developer | Python Developer | AI Enthusiast
