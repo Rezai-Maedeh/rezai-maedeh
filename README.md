@@ -30,14 +30,6 @@ An AI platform focused on making artificial intelligence accessible through mode
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rezai-maedeh&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezai-maedeh&layout=compact&hide_border=true&theme=transparent)
-
----
-
 ## 📈 Contribution Activity
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rezai-maedeh&theme=github-compact&hide_border=true)
