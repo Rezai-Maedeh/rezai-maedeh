@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Maedeh 👋
 
-<!--
-**Rezai-Maedeh/rezai-maedeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | Python Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I build modern web experiences, explore emerging technologies, and turn ideas into practical digital products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Focused on Web Development
+- 🌐 Building responsive and user-friendly websites
+- 🐍 Working with Python and JavaScript
+- 🤖 Exploring Artificial Intelligence and AI-powered applications
+- 🚀 Creator of [Ebtekar AI](https://ebtekarai.ir)
+
+---
+
+### Tech Stack
+
+\<p>   \<img src="[https://skillicons.dev/icons?i=html,css,js,python,wordpress](https://skillicons.dev/icons?i=html,css,js,python,wordpress)" alt="HTML, CSS, JavaScript, Python, WordPress" /> \</p>
+
+---
+
+### Featured Project
+
+[**Ebtekar AI**](https://ebtekarai.ir)
+
+An AI platform focused on making artificial intelligence accessible through modern tools and intelligent experiences.
+
+---
+
+### GitHub Statistics
+
+\<p>   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=rezai-maedeh&show_icons=true&hide_border=true&theme=default&rank_icon=github](https://github-readme-stats.vercel.app/api?username=rezai-maedeh\&show_icons=true\&hide_border=true\&theme=default\&rank_icon=github)" alt="GitHub Statistics" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=rezai-maedeh&layout=compact&hide_border=true&theme=default](https://github-readme-stats.vercel.app/api/top-langs/?username=rezai-maedeh\&layout=compact\&hide_border=true\&theme=default)" alt="Most Used Languages" /> \</p>
+
+---
+
+### Contribution Activity
+
+\<p>   \<img src="[https://github-readme-activity-graph.vercel.app/graph?username=rezai-maedeh&theme=github-compact&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=rezai-maedeh\&theme=github-compact\&hide_border=true)" width="100%" alt="Contribution Graph" /> \</p>
+
+---
+
+\<p align="center">   \<i>Building, learning, and creating with code.\</i> \</p>
