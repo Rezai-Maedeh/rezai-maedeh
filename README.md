@@ -1,16 +1,16 @@
 ![Maedeh Rezai - GitHub Banner](./Maedeh-Rezai.jpg)
 
-# Hi, I'm Maedeh 👋
+# Hi, I'm Maedeh 👋🏻
 
 ### Web Developer | Python Developer | AI Enthusiast
 
 I build modern web experiences, explore emerging technologies, and turn ideas into practical digital products.
 
 - 💻 Focused on Web Development
-- 🌐 Building responsive and user-friendly websites
+- 🧷 Building responsive and user-friendly websites
 - 🐍 Working with Python and JavaScript
 - 🤖 Exploring Artificial Intelligence and AI-powered applications
-- 🚀 Creator of [Ebtekar AI](https://ebtekarai.ir)
+- 🕶️ Frontend Developer at [Ebtekar AI](https://ebtekarai.ir/)
 
 ---
 
